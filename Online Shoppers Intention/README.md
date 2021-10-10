@@ -6,6 +6,7 @@
 - Tech Stack
 - Enhancements
 - Technologies Used
+- Credits
 
 ### Overview
 1. __GOAL__: The goal is to predict shopper's intention of buying products given various features.
@@ -47,8 +48,11 @@
 3. Boosting
 4. Seaborn
 
-
 ### Enhancements
 
 1. Overfitting was noticed so we can try reducing dimensions using PCA or feature selection.
 2. We can do hyperparameter tuning to further improve model metrics.
+
+### Credits
+1. Image Credits: https://www.weirdworm.com/wp-content/uploads/
+2. Dataset Credits: chinmaykulkarni19 GitHub
